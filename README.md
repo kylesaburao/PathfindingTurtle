@@ -6,6 +6,11 @@
 
 Let a turtle figure out approximate solutions to the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
 
+### Details
+
+A Prim minimum spanning tree is generated between nodes.
+Then, a Eulerian tour is generated from the tree and backtracing through visited nodes is replaced with the shortest path to the next unvisited node.
+
 ## Dependencies
 
 Python 3.7
