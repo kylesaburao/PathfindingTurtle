@@ -2,7 +2,9 @@
 
 ## About
 
-![application image](app.jpg)
+![tour](OptimizedTour.jpg)
+
+Let a turtle figure out approximate solutions to the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
 
 ## Dependencies
 
