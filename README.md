@@ -40,3 +40,7 @@ In target mode:
 In obstacle mode:
 
 - Left click on the canvas to add an obstacle.
+
+## TODO
+
+- Refactor UI and application layer, since it was put together for active demonstration and not code review.
