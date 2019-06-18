@@ -1,6 +1,13 @@
 # Pathfinding Turtle
 
 ### I'm going to redo this once I have the time
+#### TODO
+
+- A* instead of Dijkstra
+- Better UI front and backend
+  - Add and delete individual nodes
+  - Mark node for ignore
+  - Graphical toggle for input states
 
 ## About
 
