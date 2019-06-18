@@ -1,5 +1,7 @@
 # Pathfinding Turtle
 
+### I'm going to redo this once I have the time
+
 ## About
 
 ![tour](OptimizedTour.jpg)
