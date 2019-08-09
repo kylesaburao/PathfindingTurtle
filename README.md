@@ -1,6 +1,6 @@
 # Pathfinding Turtle
 
-### I'm going to redo this once I have the time
+### Going to be redone
 #### TODO
 
 - A* instead of Dijkstra
