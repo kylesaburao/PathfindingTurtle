@@ -1,14 +1,5 @@
 # Pathfinding Turtle
 
-### Going to be redone
-#### TODO
-
-- A* instead of Dijkstra
-- Better UI front and backend
-  - Add and delete individual nodes
-  - Mark node for ignore
-  - Graphical toggle for input states
-
 ## About
 
 ![tour](OptimizedTour.jpg)
